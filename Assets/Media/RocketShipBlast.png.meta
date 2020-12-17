@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 81e5fb669039a2c4db36a1c64c66e432
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6992016190850878547
+    second: RocketShipBlast_0
+  - first:
+      213: -9035483978465195180
+    second: RocketShipBlast_1
+  - first:
+      213: 7117953087966592478
+    second: RocketShipBlast_2
+  - first:
+      213: -6640577857477362072
+    second: RocketShipBlast_3
+  - first:
+      213: -3659355894158163109
+    second: RocketShipBlast_4
+  - first:
+      213: -6872532959619077215
+    second: RocketShipBlast_5
+  - first:
+      213: -207673124477516892
+    second: RocketShipBlast_6
+  - first:
+      213: 3679939434199953610
+    second: RocketShipBlast_7
+  - first:
+      213: -3638743370003931091
+    second: RocketShipBlast_8
+  - first:
+      213: -7410754006638333685
+    second: RocketShipBlast_9
+  - first:
+      213: 7370192816414087752
+    second: RocketShipBlast_10
+  - first:
+      213: 4473637814921149186
+    second: RocketShipBlast_11
+  - first:
+      213: 4051899701754335410
+    second: RocketShipBlast_12
+  - first:
+      213: 1303987135410155110
+    second: RocketShipBlast_13
+  - first:
+      213: 645996584095949280
+    second: RocketShipBlast_14
+  - first:
+      213: -9037216694425404022
+    second: RocketShipBlast_15
+  - first:
+      213: 9107821320920197676
+    second: RocketShipBlast_16
+  - first:
+      213: -1591193281380459169
+    second: RocketShipBlast_17
+  - first:
+      213: -1858648358111392751
+    second: RocketShipBlast_18
+  - first:
+      213: 9184478107547623329
+    second: RocketShipBlast_19
+  - first:
+      213: -282360342992886565
+    second: RocketShipBlast_20
+  - first:
+      213: 1367455639133764577
+    second: RocketShipBlast_21
+  - first:
+      213: 3229177549860958905
+    second: RocketShipBlast_22
+  - first:
+      213: -7490949633754318649
+    second: RocketShipBlast_23
+  - first:
+      213: -5071132965408891885
+    second: RocketShipBlast_24
+  - first:
+      213: -3086386292978020310
+    second: RocketShipBlast_25
+  - first:
+      213: -5373114373730207617
+    second: RocketShipBlast_26
+  - first:
+      213: 3179780382688854651
+    second: RocketShipBlast_27
+  - first:
+      213: -824122826614079139
+    second: RocketShipBlast_28
+  - first:
+      213: -7200409484824264744
+    second: RocketShipBlast_29
+  - first:
+      213: -38505383073266038
+    second: RocketShipBlast_30
+  - first:
+      213: -1690441186018633807
+    second: RocketShipBlast_31
+  - first:
+      213: 3154530241878819162
+    second: RocketShipBlast_32
+  - first:
+      213: -1881905268647973428
+    second: RocketShipBlast_33
+  - first:
+      213: 3571879736291267151
+    second: RocketShipBlast_34
+  - first:
+      213: -4721913233658026968
+    second: RocketShipBlast_35
+  - first:
+      213: 253198027037642816
+    second: RocketShipBlast_36
+  - first:
+      213: -1699088394926096682
+    second: RocketShipBlast_37
+  - first:
+      213: 1681716466067969377
+    second: RocketShipBlast_38
+  - first:
+      213: -8763625814568269583
+    second: RocketShipBlast_39
+  - first:
+      213: 5987947688695728551
+    second: RocketShipBlast_40
+  - first:
+      213: 5472230771262409412
+    second: RocketShipBlast_41
+  - first:
+      213: 3708757582072622195
+    second: RocketShipBlast_42
+  - first:
+      213: 2256821882765191845
+    second: RocketShipBlast_43
+  - first:
+      213: -3927188897024975165
+    second: RocketShipBlast_44
+  - first:
+      213: 2613640779118377504
+    second: RocketShipBlast_45
+  - first:
+      213: 4362777602578928295
+    second: RocketShipBlast_46
+  - first:
+      213: -7135344634874013748
+    second: RocketShipBlast_47
+  - first:
+      213: 2568754750796099669
+    second: RocketShipBlast_48
+  - first:
+      213: -2209517001838724920
+    second: RocketShipBlast_49
+  - first:
+      213: -390284583441882488
+    second: RocketShipBlast_50
+  - first:
+      213: 9089082422469873521
+    second: RocketShipBlast_51
+  - first:
+      213: -6992789421352300050
+    second: RocketShipBlast_52
+  - first:
+      213: 3444201486533008023
+    second: RocketShipBlast_53
+  - first:
+      213: 3093666692613810805
+    second: RocketShipBlast_54
+  - first:
+      213: 20778877706904729
+    second: RocketShipBlast_55
+  - first:
+      213: -4080922347631181045
+    second: RocketShipBlast_56
+  - first:
+      213: -64956306705232208
+    second: RocketShipBlast_57
+  - first:
+      213: 1527006881796433708
+    second: RocketShipBlast_58
+  - first:
+      213: -3503396682390057399
+    second: RocketShipBlast_59
+  - first:
+      213: 664679071804886301
+    second: RocketShipBlast_60
+  - first:
+      213: 5435846430702170713
+    second: RocketShipBlast_61
+  - first:
+      213: -7177015726640270995
+    second: RocketShipBlast_62
+  - first:
+      213: -1062017025801181823
+    second: RocketShipBlast_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RocketShipBlast_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1285
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616ef88f815ca3f4facce7156e83d12d
+      internalID: -6992016190850878547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1285
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e43a42d3a9fc940bf25e65b8f4565a
+      internalID: -9035483978465195180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1285
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b803aa962b7a648bd7daf331f34d73
+      internalID: 7117953087966592478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1286
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae252edc2a68ce243b8a04a9853a2ac7
+      internalID: -6640577857477362072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1287
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27159dd375897143b9e351e6edbd581
+      internalID: -3659355894158163109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1288
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21003f08761349458517fc75a6afc8f
+      internalID: -6872532959619077215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1290
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ba5fa37e452824c86bdf1a1a7b596d
+      internalID: -207673124477516892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1291
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e63cb38f02d2dc4abb142c144fd645f
+      internalID: 3679939434199953610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1292
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9c70b109b5eb4b8231b6a2700c9f0
+      internalID: -3638743370003931091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1293
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c32fe254291744b48fd2e987f4483
+      internalID: -7410754006638333685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1294
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b6760777914a45b70a6c6a04bc953
+      internalID: 7370192816414087752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1295
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624de45287ef3f46ba05e4ce300c818
+      internalID: 4473637814921149186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_12
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1295
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9be20728efc184d807bdf19a3dc1d6
+      internalID: 4051899701754335410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_13
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1292
+        width: 67
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0118695505c21aa43a16c0baaab0ad48
+      internalID: 1303987135410155110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_14
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1292
+        width: 67
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014b3956fe5e8d94392d0ae7548d730d
+      internalID: 645996584095949280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_15
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1291
+        width: 67
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e805d8aefea9e4b489485cddbcc30820
+      internalID: -9037216694425404022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_16
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1291
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3453c3793294cf4383a241168228d16
+      internalID: 9107821320920197676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_17
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1292
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e1b341c7ab0c4f85f7324fd0957f8
+      internalID: -1591193281380459169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_18
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1293
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f56c28bd155594eb6b573e871ceab9
+      internalID: -1858648358111392751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_19
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1294
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0731c73d11f894793bd807b54c7358
+      internalID: 9184478107547623329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 867
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1dff19bf2b9c4f92b42cd70e9dec0
+      internalID: -282360342992886565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 868
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887009157285084bb5fa21f6d3257be
+      internalID: 1367455639133764577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 869
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aaa8af338345a42b2c8116ec77d576
+      internalID: 3229177549860958905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 871
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aba125105822f4cbe77f82b80a5dba
+      internalID: -7490949633754318649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 873
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45fabd33dc9a8548aa5a70fea6e22e4
+      internalID: -5071132965408891885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 875
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d392e1a947de43b02de130d11af82
+      internalID: -3086386292978020310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 878
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb845ee3180520e4f9e1d4d0b53abaf9
+      internalID: -5373114373730207617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 881
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b0f7bd9a13594f80015d2369ac507
+      internalID: 3179780382688854651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 884
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688f58f9db691b49928a953fb632f0e
+      internalID: -824122826614079139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_29
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 888
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a010d81661ecb40bbd3379e97a7de7
+      internalID: -7200409484824264744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_30
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 892
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a96ccdeb78a244a0a80f938e3fd3d
+      internalID: -38505383073266038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_31
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 892
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65126e4f8719664b8d11a5ea759918c
+      internalID: -1690441186018633807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_32
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 896
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beedd761d1353344b60f9877407d415
+      internalID: 3154530241878819162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_33
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 901
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d4d52033b935448b8abe13c2c735f
+      internalID: -1881905268647973428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_34
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 906
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b600ce3301e3ebc4a8592968ab6a997e
+      internalID: 3571879736291267151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_35
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 911
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927c1113f767c2489ad3ba5d20d2a95
+      internalID: -4721913233658026968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_36
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 916
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de06d9126e9dc4da20f856f40b7ed8
+      internalID: 253198027037642816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 921
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f1a1378e5ae794d92c390d429b6d04
+      internalID: -1699088394926096682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_38
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 926
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2a4a98c4fac948b4fae1a2f442d14
+      internalID: 1681716466067969377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_39
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 931
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8085f5adefa17543b131c94f9e351d7
+      internalID: -8763625814568269583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 525
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99350f5fb8188f40b02adab672ee0b8
+      internalID: 5987947688695728551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 531
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5891a0925d13794bba3c645442de571
+      internalID: 5472230771262409412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_42
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 531
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47826ebe4b381a448b9b8b20d4136da1
+      internalID: 3708757582072622195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 538
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e67908b4f37049ab46d3c20c49aa7
+      internalID: 2256821882765191845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_44
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 545
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f5a947854008848aebde9d9f601b88
+      internalID: -3927188897024975165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 552
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca6b271e2104042a36cb62230bbdf9
+      internalID: 2613640779118377504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_46
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 560
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5325a334a23f4854e80795d05011d2fa
+      internalID: 4362777602578928295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_47
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 576
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cececa3e0d890240b65186244485413
+      internalID: -7135344634874013748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_48
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 576
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb564ea7feb476c43b7abcc637b028cd
+      internalID: 2568754750796099669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_49
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 585
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200eeb9f9294af64a8431e5781ed6df1
+      internalID: -2209517001838724920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_50
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 594
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7634d5d7dc374f8158ccf9a01562d
+      internalID: -390284583441882488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 603
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3c071d49cbdc4da3e21c11fbf07ce
+      internalID: 9089082422469873521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_52
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 612
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241e6c4fc5c6d240ab302ee10b72603
+      internalID: -6992789421352300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_53
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 622
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6109b351aaeb49aec07a3fead6aef
+      internalID: 3444201486533008023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_54
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 632
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff919ca03070cd4a9aa497e960d0a5d
+      internalID: 3093666692613810805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_55
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 642
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ca44d3956a1049b565d36b9fcce90
+      internalID: 20778877706904729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_56
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 654
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371c43cec8a26a4db28cd48a32c219d
+      internalID: -4080922347631181045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_57
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 666
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb7cd363cf4bb438c52c3d80aa17fb
+      internalID: -64956306705232208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 508
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a82d1b3e642f4db75e603b5e736bc
+      internalID: 1527006881796433708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 519
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eab5f300cab4f4c86ccaa97bde547e
+      internalID: -3503396682390057399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 250
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf022529c8466af42ab275bfaa9f607e
+      internalID: 664679071804886301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 262
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a28bdcf17e9c534a912ec17f5347841
+      internalID: 5435846430702170713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 274
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63bfa9c40e2c9b46b28b1e5711d4f1a
+      internalID: -7177015726640270995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketShipBlast_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 286
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d706e479483e494dbacff1b3456824c
+      internalID: -1062017025801181823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
